@@ -12,8 +12,11 @@ Note: we'd be lying if we said this idea of open sourcing our handbook was a who
 
 ## Sections
 [Philosophy and Core Values](philosophy.md)
+
 [Our History](history.md)
+
 [Apprenticeships](apprentice.md)
+
 [We Love ATL](community.md)
 [Product](product.md)
 [Benefits](benefits.md)
