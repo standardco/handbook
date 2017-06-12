@@ -9,7 +9,7 @@ The second section is a list of...sections. A section about sections!
 Note: we'd be lying if we said this idea of open sourcing our handbook was a wholly original idea that we cooked up ourselves. No, not quite. While we've been planning to share our past handbooks with anyone who might be interested, the idea of doing it in markdown as a github repo is something we stole from Basecamp and the 37 Signals team. Basically much of what we do at Standard Code is modeled after this team. We thank them for the idea!
 
 ## Past Versions of our handbook
-* [Our very first handbook!](past/employee handbook_january_2014_v1.0.pdf)
+* [Our very first handbook!](past/handbook_january_2014_v1.0.pdf)
 
 ## Sections
 * [Philosophy and Core Values](philosophy.md)
