@@ -9,7 +9,18 @@ The second section is a list of...sections. A section about sections!
 Note: we'd be lying if we said this idea of open sourcing our handbook was a wholly original idea that we cooked up ourselves. No, not quite. While we've been planning to share our past handbooks with anyone who might be interested, the idea of doing it in markdown as a github repo is something we stole from Basecamp and the 37 Signals team. Basically much of what we do at Standard Code is modeled after this team. We thank them for the idea!
 
 ## Past Versions of our handbook
-* [Our very first handbook!](past/handbook_january_2014_v1.0.pdf)
+* [v1.0 -- beginning of 2014](past/handbook_january_2014_v1.0.pdf)
+
+    >  This was mostly a "who are we document" since it was just the partners at the time -- and a fourth person we were trying to recruit who ended up going to work for another lame company named Apple
+
+* [v2.0 -- end of 2014 / beginning of 2015](past/handbook_december_2014_v2.0.pdf)
+
+    >  Written at the end of 2014 as we headed into 2015, this was the first document that started to really spell out who we were, that we were a product company, and what our benefits were
+
+* [v3.0 -- end of 2014 / beginning of 2015](past/handbook_december_2014_v2.0.pdf)
+
+    >  Focused more on product and specific areas of interest. We also said you can basically wear whatever you want to work
+
 
 ## Sections
 * [Philosophy and Core Values](philosophy.md)
