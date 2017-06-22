@@ -3,13 +3,13 @@ One thing we believe in very strongly (besides stocking really good beef jerky i
 
 **Pay**
 
-Apprentices work for us for 3-6 months....and they get **paid** (unpaid internships are lame). We believe quality of live go hand-in-hand when learning a new trade. And if you can't pay your bills, your quality of life is gonna suck.
+Apprentices work for us for 3-6 months....and they get **paid** (unpaid internships are lame). We believe quality of life go hand-in-hand when learning a new trade. And if you can't pay your bills, your quality of life is gonna suck.
 
 **Work**
 
-They do real work. No menial bullshit tasks. We spread the workload across a variety of disciplines during the apprenticeship. We typically start with front end -- learning the basics of HTML, CSS, and Javascript. You'll work with the eminent front end technologist, Jared Malan (co-founder and partner).
+Apprentices do real work. No menial bullshit tasks. We spread the workload across a variety of disciplines during the apprenticeship. We typically start with front end -- learning the basics of HTML, CSS, and Javascript. You'll work with the eminent front end technologist, Jared Malan (co-founder and partner).
 
-After the front end segment, you'll move on to backend. We're a ruby on rails shop so we'll focus on routing, controllers, models, authentication, basic rails commands, etc.
+After the front end segment, you'll move on to backend. We're a ruby on rails shop so we'll focus on routing, controllers, models, authentication, basic rails commands, etc. You'll be paired with one of our developers and lead by the legendary software developer, Sir Jonathan Nesbitt
 
 Lastly, we'll spend time with Git, Heroku (our hosting platform of choice), AWS (where we do all kinds of weird server kinda things), and databases.
 
@@ -24,6 +24,6 @@ During the program we ask our team to do two things:
 
 **Application Process**
 
-Nothing we do at Standard Code is "business as usual". That includes our process for folks applying for our apprentice program. We don't believe in whiteboard sessions or technical reviews. Those are bullshit. The best way to determine if someone is a good fit is to have them solve real world problems. So we created this site: [Apprentice Application](http://standardco.de/apprentice). It's kind of a scavenger hunt to test basic problem solving skills. Parts of it are purposefully vague. We do this to test whether someone is willing to stop and ask for help (or ask questions).
+Nothing we do at Standard Code is "business as usual". That includes our process for folks applying for our apprentice program. We don't believe in whiteboard sessions or technical reviews. Those really don't prove anything. The best way to determine if someone is a good fit is to have them solve real world problems. So we created this site: [Apprentice Application](http://standardco.de/apprentice). It's kind of a scavenger hunt to test basic problem solving skills. Parts of it are purposefully vague. We do this to test whether someone is willing to stop and ask for help (or ask questions).
 
 After the scavenger hunt we have a sit down to understand what drives someone. Are they a good culture fit? Do we like being around them? Are they intensely curious? 

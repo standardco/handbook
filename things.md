@@ -20,7 +20,9 @@ Every friday we convene team lunch. Usually we head out somewhere downtown but h
 
 ## Cultural Activity
 
-Once a month we *try* to get out of the building and do something totally unrelated to technology. We've done a blacksmithing class, gone to the park to throw the frisbee, etc. Coming up we have an excursion to learn how to climb trees and we're planning a visit to the CDC Museum.
+Once a month we *try* to get out of the building and do something totally unrelated to technology. We've done a blacksmithing class, gone to the park to throw the frisbee, habitat builds, etc. A few summers ago we had a "Plant Draft" where we wanted to see who could do the best job growing an indoor plant.
+
+Coming up we have an excursion to learn how to climb trees and we're planning a visit to the CDC Museum.
 
 ## One year anniversary!
 
@@ -28,4 +30,4 @@ Work with us for a year and you get your very own pair of Bose noise canceling h
 
 ## Dress code
 
-We don't have one. 
+We don't have one.

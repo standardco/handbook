@@ -1,6 +1,6 @@
 # Where We Work
 
-We're proudly headquartered in [Atlanta, GA](community.md). Our office is located at Switchyards in downtown. However, we have team members in the following places:
+We're proudly headquartered in [Atlanta, GA](community.md). Our office is located at [Switchyards](https://scontent-sea1-1.cdninstagram.com/t51.2885-15/e35/16230994_168419240309893_5370344497517428736_n.jpg) in downtown. However, we have team members in the following places:
 
 * Atlanta, GA (obviously)
 * Albany, GA
