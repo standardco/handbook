@@ -6,3 +6,6 @@ Standard Code was started in 2013 because we kept running out of money on our ot
 The newly formed company continued to poor resources and time into ol We&Co for a few years after their formation. However, around the 2 year mark the team was introduced to some folks in the Global Health community and asked to help build a mobile data collection tool. A tool that could work anywhere in the world, on cheap commodity devices, and store the data in the cloud. The tool that emerged, LINKS, has now been used in over 50 countries on hundreds of research projects! It was this project that paved the way for team Standard Code to grow into a company almost entirely dedicated to building tools for the global health world.
 
 Even though Standard Code started as a services company, building a product was something that was always core to who we were. More on that in the [product](product.md) section.
+
+Wanna meet the rest of the team? OF COURSE YOU DO. Go to our [website](https://www.standardco.de/team) b/c we already have a page dedicated to our team.
+![Team ](https://www.standardco.de/assets/major_team_filter-bc26b8d1360236492de7cd23cbeb5cdc26f6e4a836fa3319307060051af14346.JPG "Best Damn Lookin Team Ever")
