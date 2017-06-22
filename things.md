@@ -6,7 +6,7 @@ Here's a random collection of things we do at Standard Code. You could call thes
 
 We don't have a gong. Or a fancy ass bell that gets rung. We don't have a company fancy car that people get to drive (though getting a company bike is a good idea. Hmmmm....). Nope. When we close a big deal, we do two things:
 
-1. We buy art for the office. We have an...eclectic...collection. So we're constantly adding to it.
+1. We buy art for the office. We have an...eclectic...collection ([think grandma's basement](http://s3.amazonaws.com/sc-apprenticer/images/images/000/000/390/original/IMG_3883.JPG?1498162419)). So we're constantly adding to it.
 
 2. Happy hour! Ok this part might be cliche -- but who doesn't like a good beer?!? We've rented out a brewery and a vintage game bar in the past.
 
