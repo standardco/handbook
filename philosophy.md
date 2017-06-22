@@ -3,7 +3,7 @@
 At our most basic, these three things make us tick:
 
 ## We are a product company
-We love getting hired to build random shit for people. Really, we do! And we love customizing our products to meet people's needs. Honestly, that's super cool! But what we love more than anything is making a product and finding ways to make it better. When we started Standard Code, we knew we wanted to build our own digital products. We also knew that raising money for an idea is something we didn't want to do again. So we funded the R&D on these projects by doing services work.
+We love getting hired to build random shit for people. Really, we do! And we love customizing things to meet people's needs. Honestly, that's super cool! But what we love more than anything is making a product, finding ways to make it better, and finding people who **need** it. When we started Standard Code, we knew we wanted to build our own digital products. We also knew that raising money for an idea is something we didn't want to do again. So we funded the R&D on these projects by doing services work.
 
 Over the last 4 years, we've experimented with a few dozen ideas, built 10+ MVPs, made revenue on a 3 or 4 different projects, and formally launched a real product in 2016 called [Secure Data Kit](http://www.securedatakit.com), a healthcare data platform primarily used by global health organizations.
 
