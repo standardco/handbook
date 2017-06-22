@@ -33,4 +33,4 @@ Note: we'd be lying if we said this idea of open sourcing our handbook was a who
 * [Holidays](holidays.md)
 * [We play ping pong](pingpong.md)
 * [Where we work](where.md)
-* [Things we do](things.md)
+* [Random Stuff](things.md)
