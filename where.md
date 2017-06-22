@@ -15,7 +15,7 @@ So yeah, you can see that we're spread around.
 
 This is easy: get your stuff done and work from home whenever you need to. Generally speaking we like to see people more often than not but hey, we're pretty easy going folks. If you're going to work from home, drop a note in the #general channel on slack
 
-*one exception -- we ask that participants in the apprentice program be in the office during normal business hours. Learning to develop is tricky enough but it's even harder if you're trying to do it alone.
+*one exception -- we ask that participants in the apprentice program be in the office during normal business hours. Learning to develop is tricky enough but it's even harder if you're trying to do it alone.*
 
 ## Travel
 
