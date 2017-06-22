@@ -1,5 +1,7 @@
 # Product
 
+(note: this page is not finished)
+
 Our product philosophy comes from years of working for and starting our own startups. Our guiding principle is this:
 
     >  Go that way really fast. If something gets in your way....turn.
