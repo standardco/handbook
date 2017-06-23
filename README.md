@@ -18,9 +18,13 @@ Note: we'd be lying if we said this idea of open sourcing our handbook was a who
 
     >  Written at the end of 2014 as we headed into 2015, this was the first document that started to really spell out who we were, that we were a product company, and what our benefits were
 
-* [v3.0 -- end of 2014 / beginning of 2015](past/handbook_december_2014_v2.0.pdf)
+* [v3.0 -- end of 2014 / beginning of 2015](past/handbook_april_2015_v3.0.pdf)
 
     >  Focused more on product and specific areas of interest. We also said you can basically wear whatever you want to work
+
+* [v3.1 -- September 2015](past/handbook_september_2015_v3.1.pdf)
+
+    >  Ok at this point all we were really doing was changing the font
 
 
 ## Sections
