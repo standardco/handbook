@@ -1,7 +1,7 @@
 # Welcome to the Standard Code Team Handbook
 ![Standard Code Logo ](https://www.standardco.de/assets/sc_logo_red-3f9ec7366a1d7f8a856bc0dbf38293bc19ed261bd40d14670e1f6f19005acb75.svg "Standard Code Logo")
 
-This is the Standard Code team handbook. This is our 4th iteration of the handbook and for a small, startup type company, we're sort of unique because we've always believed in codifying who we are, what we believe in, and sharing those principles with the team. By writing things down from the very beginning, we have the rare good fortune to see how we've evolved from a dev shop supporting a B2C product for the hospitality industry all the way to a product company largely on building a data product for the very, very, very different world of healthcare.
+This is the Standard Code team handbook. This is our 4th iteration of the handbook and for a small, startup type company, we're sort of unique because we've always believed in codifying who we are, what we believe in, and sharing those principles with the team. By writing things down from the very beginning, we have the rare good fortune to see how we've evolved from a dev shop supporting a B2C product for the hospitality industry all the way to a product company focused largely on building a data product for the very, very, very different world of healthcare.
 
 Below are two core sections. The first is a list of our past handbooks. We definitely encourage new stage startup companies to look them over to see how capturing our core values has evolved.
 
