@@ -7,6 +7,8 @@ Below are two core sections. The first is a list of our past handbooks. We defin
 
 The second section is a list of...sections. A section about sections!
 
+**Update 12/22/2017**: Updates include the addition of our 2017 year end presentation. We're also updating the handbook to include a critical new component to our workplace culture: [remote work](remote.md).
+
 Note: we'd be lying if we said this idea of open sourcing our handbook was a wholly original idea that we cooked up ourselves. No, not quite. While we've been planning to share our past handbooks with anyone who might be interested, the idea of doing it in markdown as a github repo is something we stole from Basecamp and the 37 Signals team. Basically much of what we do at Standard Code is modeled after this team. We thank them for the idea!
 
 ## Past Versions of our handbook
@@ -26,6 +28,9 @@ Note: we'd be lying if we said this idea of open sourcing our handbook was a who
 
     >  Ok at this point all we were really doing was changing the font
 
+* [December 2017](past/2017!.pdf)
+
+    >  This marks a departure from our usual updates to the handbook. Now that we maintain the handbook here on Github, this is more of a year in review. Still worth checking out!
 
 ## Sections
 * [Philosophy and Core Values](philosophy.md)
@@ -38,3 +43,5 @@ Note: we'd be lying if we said this idea of open sourcing our handbook was a who
 * [We play ping pong](pingpong.md)
 * [Where we work](where.md)
 * [Random Stuff](things.md)
+* [Remote Work](remote.md) (* new!)
+* [Meetings and Stuff](communication.md) (* new!)

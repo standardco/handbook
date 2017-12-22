@@ -1,4 +1,4 @@
-Communication is an obviously critical part of a team and how it works. Getting the right communication style can be difficult in the most ideal of scenarios; it can be even tougher when a majority of the office is remote. Below are some general thoughts on how to effectively communicate with the Team
+Communication is an obviously critical part of a team and how everyone works together. Getting the right communication style can be difficult in the most ideal of scenarios; it can be even tougher when a majority of the office is remote. Below are some general thoughts on how to effectively communicate with the Team.
 
 ## Meetings
 Here's the thing. In a real life office, you can slide your chair over to someone's desk to ask a question. This is both a pro and a con. The pro is that communication face-to-face is more natural than via a keyboard.
@@ -8,7 +8,7 @@ The con is that it doesn't always respect people's time, bandwidth, and focus. J
 So it's with this being said, we will have more structure around meetings.  
 
 #### Ad hoc
-If you have a "how" or "why" question for someone, hop onto skype and do a meeting. The rule here is it has to be a video meeting. No voice only meetings. 
+If you have a "how" or "why" question for someone, hop onto skype and do a meeting. The rule here is it has to be a video meeting. No voice only meetings.
 
 #### Monday Meetings
 
