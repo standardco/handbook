@@ -36,7 +36,7 @@ Note: we'd be lying if we said this idea of open sourcing our handbook was a who
 * [Philosophy and Core Values](philosophy.md) (* updated core values 12/22/2017)
 * [Our History](history.md)
 * [Apprenticeships](apprentice.md)
-* [We Love ATL](community.md)
+* [We Love ATL](community.md) 
 * [Product](product.md)
 * [Benefits](benefits.md)
 * [Holidays](holidays.md)
