@@ -1,14 +1,18 @@
 # Philosophy and Core Values
 
-At our most basic, these three things make us tick:
+In December 2017, we reshaped our core principles a bit. From "humble" to "friendly", "product focused" to "technique driven", and "curious" to.....well.... "curious"
 
-## Stay product focused
+## Technique Focused
 We love getting hired to build random shit for people. Really, we do! And we love customizing things to meet people's needs. Honestly, that's super cool! But what we love more than anything is making a product, finding ways to make it better, and finding people who **need** it. When we started Standard Code, we knew we wanted to build our own digital products. We also knew that raising money for an idea is something we didn't want to do again. So we funded the R&D on these projects by doing services work.
 
 Over the last 4 years, we've experimented with a few dozen ideas, built 10+ MVPs, made revenue on a 3 or 4 different projects, and formally launched a real product in 2016 called [Secure Data Kit](http://www.securedatakit.com), a healthcare data platform primarily used by global health organizations.
 
-## Stay humble
+This core value is really about treating what we do as a craft and aiming to excel at all aspects of building a product whether it's project management, development, or QA.
+
+## Stay friendly
 Software developers are the great beneficiaries of a staggering supply / demand problem. That is, there ain't enough developers to fill all the jobs out there. So jobs are plentiful, pay is good, etc. This leads to a lot of inflated egos. And inflated egos tend to think they know the answer. Our belief is **we don't have all the answers**. We talk to our clients and users and customers and colleagues and partners to understand what the needs are and we construct the answers based on their needs. This means we try and go into every meeting with an open mind. We apply this philosophy to clients and team members -- we assume nothing about the people we bring onto the team (read more in our [apprentice](apprentice.md) section).
+
+We want to stay friendly, nice, approachable people. 
 
 ## Stay curious
 It's kind of a given that you have to stay curious in the software world. Technology changes as fast as industry -- if you want to stay relevant, you have to stay curious. How do we activate that curiosity though?

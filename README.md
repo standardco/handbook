@@ -33,7 +33,7 @@ Note: we'd be lying if we said this idea of open sourcing our handbook was a who
     >  This marks a departure from our usual updates to the handbook. Now that we maintain the handbook here on Github, this is more of a year in review. Still worth checking out!
 
 ## Sections
-* [Philosophy and Core Values](philosophy.md)
+* [Philosophy and Core Values](philosophy.md) (* updated core values 12/22/2017)
 * [Our History](history.md)
 * [Apprenticeships](apprentice.md)
 * [We Love ATL](community.md)
