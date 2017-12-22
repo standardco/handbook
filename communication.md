@@ -11,13 +11,17 @@ So it's with this being said, we will have more structure around meetings.
 If you have a "how" or "why" question for someone, hop onto skype and do a meeting. The rule here is it has to be a video meeting. No voice only meetings.
 
 #### Monday Meetings
+Every monday we'll kick off with a staff meeting where we set the objectives for the week. In this meeting prepare to discuss what you're going to accomplish and what may be blocking you. Make sure the [Standard Code Masterlist](https://www.standardco.de/projects) is up to date!
 
 #### Friday Meetings
+On Fridays we have more of an announcement / cool stuff going on / biz development / look at all these cool stats! type of meeting. 
 
 ## Tools (things to facilitate communication)
 
 **Slack** -- it ain't no surprise that we're huge fans. Keep doing what you're doing.
 
-**Video Chat** -- as of the writingof this page (12/21/2017) we're going to keep using Skype as the video chat of choice. However, there are a few other tools we're experimenting with. More to come!
+**Video Chat** -- as of the writing of this page (12/21/2017) we're going to keep using Skype as the video chat of choice. However, there are a few other tools we're experimenting with. More to come!
 
 **Arrived In** -- still looking at this but it's a tool that simulates have a "room" or "office" that people can knock on
+
+**Masterlist** -- an internal tool we use in lieu of a standup meeting. Add projects / tasks to the list and update everyday before you go home. In the mornings [Gerald](https://www.standardco.de/gerald) will send a slack message to the #daily_updates channel with everyone's update

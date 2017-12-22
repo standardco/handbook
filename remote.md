@@ -13,7 +13,10 @@ That said, we've created an escalation procedure in case you need someone immedi
 Ok so communication is one of the hardest things to get right about remote work. So much so in fact that we created a special page dedicated to it. Read more about how we communicate [here](communication.md).
 
 ## Home office
-Atlanta is our home and will remain so. We will keep our hub out of Switchyards in downtown Atlanta. 
+Atlanta is our home and will remain so. We will keep our hub out of Switchyards in downtown Atlanta.
 
 ## Yearly summit
 Nothing replaces face-to-face communication so once a year we will meet up somewhere. Have fun. Talk about Standard Code stuff.
+
+## Office Stipend
+If you choose to work remote we will give you an office stipend. Just let us know where you want to work and we'll sort it out. 

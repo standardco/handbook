@@ -28,6 +28,16 @@ Coming up we have an excursion to learn how to climb trees and we're planning a 
 
 Work with us for a year and you get your very own pair of Bose noise canceling headphones (unless you want $300 worth of textbooks -- we've done that too)
 
+## This is an Easter Egg
+
+Reading this and wondering what an easter egg is? Send an email to info@standardco.de with the subject "I love Gerald!" and we'll send you a cool present!
+
 ## Dress code
 
 We don't have one.
+
+## Gerald
+
+Gerald is a mythical employee of Standard Code. One day in 2017 we just started referring to any random male as "Gerald" (e.g "looks like Gerald logged into the site again and messed up a form"). It sort of took on a life of it's own. We now have a portrait of him in the office and we even named a Slack bot after him. We love him.
+
+![Meet Gerald ](/past/gerald.jpg "I love Gerald")
