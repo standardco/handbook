@@ -6,7 +6,7 @@ Working for a software company is a taxing, brain draining enterprise. So you ne
 We believe in unlimited time off which basically means take off what you need to. Our philosophy is get done what you need to get done and the rest will take care of itself.
 
 ## Holidays (2017)
-* MLK – January 16th
+* MLK – January 15th
 * Memorial Day – May 29th
 * Independence Day – July 3rd and 4th
 * Labor Day – September 4th
