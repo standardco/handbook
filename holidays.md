@@ -5,13 +5,13 @@ Working for a software company is a taxing, brain draining enterprise. So you ne
 ## Vacation
 We believe in unlimited time off which basically means take off what you need to. Our philosophy is get done what you need to get done and the rest will take care of itself.
 
-## Holidays (2017)
+## Holidays (2018)
 * MLK – January 15th
-* Memorial Day – May 29th
-* Independence Day – July 3rd and 4th
-* Labor Day – September 4th
-* Thanksgiving – November 20th - 24th
-* Christmas – New Years – December 25th – January 2nd
+* Memorial Day – May 28th
+* Independence Day – July 4th - 6th
+* Labor Day – September 3rd
+* Thanksgiving – November 22nd - 23rd
+* Christmas – New Years – December 24th – January 1st
 
 ## Sick Days
 Don't feel good? Stay home.
