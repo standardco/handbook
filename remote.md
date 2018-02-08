@@ -23,3 +23,6 @@ Nothing replaces face-to-face communication so once a year we will meet up somew
 
 ## Office Stipend
 If you choose to work remote we will give you an office stipend. Just let us know where you want to work and we'll sort it out.
+
+## Team location
+Since we're become more and more remote, go to this [Trello Board](https://trello.com/b/Bq3b37Ap/standard-coders) and update your whereabouts. Just copy the top card and update with your own status.
