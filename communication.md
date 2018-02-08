@@ -20,8 +20,6 @@ On Fridays we have more of an announcement / cool stuff going on / biz developme
 
 **Slack** -- it ain't no surprise that we're huge fans. Keep doing what you're doing.
 
-**Video Chat** -- as of the writing of this page (12/21/2017) we're going to keep using Skype as the video chat of choice. However, there are a few other tools we're experimenting with. More to come!
-
-**Arrived In** -- still looking at this but it's a tool that simulates have a "room" or "office" that people can knock on
+**Video Chat** -- as of the writing of this page (01/23/2018) we have moved over to http://appear.in for video chat. The concept is cool; everyone has their own “room” where people can enter or knock (if you lock the room) to visit. If you need to have a meeting, do it via appear.in. The free version allows up to 4 participants per room. We have a paid room at http://appear.in/standardcode that allows up to 12 people. 
 
 **Masterlist** -- an internal tool we use in lieu of a standup meeting. Add projects / tasks to the list and update everyday before you go home. In the mornings [Gerald](https://www.standardco.de/gerald) will send a slack message to the #daily_updates channel with everyone's update
