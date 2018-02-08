@@ -9,7 +9,7 @@ There's no hard and fast rules for when to create a post mortem. If there's an o
 
 ## The error log
 
-For smaller issues that don't really rise to the level of a post mortem, we have an error log. See Jonathan for access!
+For smaller issues that don't really rise to the level of a post mortem, we have an [error log](https://docs.google.com/spreadsheets/u/1/d/1SIINVUhOUWtXOmwim5KVp0BUsd8s1OInH4cJGCuuHVI/edit#gid=0). Put it there. 
 
 ## Ok, get on with it!
 
